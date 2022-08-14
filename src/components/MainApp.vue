@@ -20,7 +20,7 @@
                             <i class="ri-linkedin-box-line"></i>
                         </a>
                         <a href="https://github.com/zidnaarif" target="_blank" class="profile__social-link">
-                            <i class="ri-github-line"></i>
+                            <i class="ri-github-fill"></i>
                         </a>
                         <a href="https://instagram.com/zidna.arif" target="_blank" class="profile__social-link">
                             <i class="ri-instagram-line"></i>
@@ -89,6 +89,9 @@
                                     <a href="http://dekoruma.zidna.my.id" class="projects__button button button__small">
                                         <i class="ri-link"></i>
                                     </a>
+                                    <a href="https://github.com/zidnaarif/148_WPA_zidna" class="projects__button button button__small">
+                                        <i class="ri-github-fill"></i>
+                                    </a>
                                 </div>
                             </div>
                         </article>
@@ -101,6 +104,9 @@
                                     <h3 class="projects__title">HTML & CSS Website</h3>
                                     <a href="http://wefix.zidna.my.id" class="projects__button button button__small">
                                         <i class="ri-link"></i>
+                                    </a>
+                                    <a href="https://github.com/zidnaarif/dicoding-html" class="projects__button button button__small">
+                                        <i class="ri-github-fill"></i>
                                     </a>
                                 </div>
                             </div>
@@ -115,6 +121,9 @@
                                     <a href="http://droidtube.com" class="projects__button button button__small">
                                         <i class="ri-link"></i>
                                     </a>
+                                    <a href="#" class="projects__button button button__small">
+                                        <i class="ri-github-fill"></i>
+                                    </a>
                                 </div>
                             </div>
                         </article>
@@ -128,6 +137,9 @@
                                     <a href="http://bootstrap.zidna.my.id" class="projects__button button button__small">
                                         <i class="ri-link"></i>
                                     </a>
+                                    <a href="https://github.com/zidnaarif/bootstrap-company-profile" class="projects__button button button__small">
+                                        <i class="ri-github-fill"></i>
+                                    </a>
                                 </div>
                             </div>
                         </article>
@@ -137,9 +149,12 @@
                             <div class="projects__modal">
                                 <div>
                                     <span class="projects__subtitle">My Portfolio</span>
-                                    <h3 class="projects__title">Mini Portfolio Website</h3>
+                                    <h3 class="projects__title">Portfolio Website</h3>
                                     <a href="http://zidna.my.id" class="projects__button button button__small">
                                         <i class="ri-link"></i>
+                                    </a>
+                                    <a href="https://github.com/zidnaarif/portfolio" class="projects__button button button__small">
+                                        <i class="ri-github-fill"></i>
                                     </a>
                                 </div>
                             </div>
