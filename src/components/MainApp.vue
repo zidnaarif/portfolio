@@ -13,7 +13,7 @@
                     </div>
 
                     <h2 class="profile__name">Muh. Zidna Arif A.</h2>
-                    <h3 class="profile__profession">Web Developer</h3>
+                    <h3 class="profile__profession">Digital Marketing Enthusiast & Web Developer</h3>
                     
                     <ul class="profile__social">
                         <a href="https://linkedin.com/in/zidna-arif" target="_blank" class="profile__social-link">
@@ -30,26 +30,26 @@
 
                 <div class="profile__info grid">
                     <div class="profile__info-group">
-                        <h3 class="profile__info-number">27</h3>
+                        <h3 class="profile__info-number">28</h3>
                         <p class="profile__info-description">Years <br> old</p>
                     </div>
                     <div class="profile__info-group">
-                        <h3 class="profile__info-number">+5</h3>
+                        <h3 class="profile__info-number">+6</h3>
                         <p class="profile__info-description">Completed <br> projects</p>
                     </div>
                     <div class="profile__info-group">
-                        <h3 class="profile__info-number">2</h3>
+                        <h3 class="profile__info-number">4</h3>
                         <p class="profile__info-description">Active <br> courses</p>
                     </div>
                 </div>
 
                 <div class="profile__buttons">
-                    <a download="" href="https://drive.google.com/file/d/1Bi1quzNKQV1WzINipiFrTA8WsYRlOt6O/view?usp=sharing" class="button button__small">
+                    <a download="" href="https://drive.google.com/file/d/1uexQ6qSvnTqionPJGnhazfnX_IF2hsdN/view?usp=sharing" class="button button__small">
                         Download CV <i class="ri-download-line"></i>
                     </a>
 
                     <div class="profile__buttons-small">
-                        <a href="https://api.whatsapp.com/send?phone=6285731114774&text=Hello, Zidna." target="_blank" class="button button__small button__gray">
+                        <a href="https://api.whatsapp.com/send?phone=6285780007158&text=Hello, Zidna." target="_blank" class="button button__small button__gray">
                             <i class="ri-whatsapp-line"></i>
                         </a>
 
@@ -79,6 +79,19 @@
                 <div class="filters__sections">
                     <!--=============== PROJECTS ===============-->
                     <div class="projects__content grid filters__active" data-content id="projects">
+                        <article class="projects__card">
+                            <img src="/assets/img/project-seo.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">Ragasport.id</span>
+                                    <h3 class="projects__title">SEO & SEM</h3>
+                                    <a href="https://ragasport.id" class="projects__button button button__small">
+                                        <i class="ri-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
                         <article class="projects__card">
                             <img src="/assets/img/project-vue.jpg" alt="" class="projects__img">
                             
@@ -163,6 +176,72 @@
 
                     <!--=============== SKILLS ===============-->
                     <div class="skills__content grid" data-content id="skills">
+                        <div class="skills__area">
+                            <h3 class="skills__title">
+                                Digital Marketing
+                            </h3>
+
+                            <div class="skills__box">
+                                <div class="skills__group">
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Search Engine Optimization</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Google Ads</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Google Analytics</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="skills__group">
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Google Tag Manager</h3>
+                                            <span class="skills__level">Advanced</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Google Search Console</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">SEO Tools (Semrush, Ubbersuggest, Screepy)</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="skills__area">
                             <h3 class="skills__title">
                                 Frontend Developer
