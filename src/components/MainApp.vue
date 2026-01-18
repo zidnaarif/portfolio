@@ -22,7 +22,7 @@
                         <a href="https://github.com/zidnaarif" target="_blank" class="profile__social-link">
                             <i class="ri-github-fill"></i>
                         </a>
-                        <a href="https://instagram.com/zidna.arif" target="_blank" class="profile__social-link">
+                        <a href="#" target="_blank" class="profile__social-link">
                             <i class="ri-instagram-line"></i>
                         </a>
                     </ul>
@@ -30,11 +30,11 @@
 
                 <div class="profile__info grid">
                     <div class="profile__info-group">
-                        <h3 class="profile__info-number">28</h3>
+                        <h3 class="profile__info-number">31</h3>
                         <p class="profile__info-description">Years <br> old</p>
                     </div>
                     <div class="profile__info-group">
-                        <h3 class="profile__info-number">+6</h3>
+                        <h3 class="profile__info-number">+23</h3>
                         <p class="profile__info-description">Completed <br> projects</p>
                     </div>
                     <div class="profile__info-group">
@@ -44,12 +44,12 @@
                 </div>
 
                 <div class="profile__buttons">
-                    <a download="" href="https://drive.google.com/file/d/1uexQ6qSvnTqionPJGnhazfnX_IF2hsdN/view?usp=sharing" class="button button__small">
+                    <a download="" href="https://drive.google.com/file/d/1hxkrj3pUkR11CBfLtHHQbeGHnK1eQx1M/view?usp=sharing" class="button button__small">
                         Download CV <i class="ri-download-line"></i>
                     </a>
 
                     <div class="profile__buttons-small">
-                        <a href="https://api.whatsapp.com/send?phone=6285780007158&text=Hello, Zidna." target="_blank" class="button button__small button__gray">
+                        <a href="https://api.whatsapp.com/send?phone=628161111906&text=Hello, Zidna." target="_blank" class="button button__small button__gray">
                             <i class="ri-whatsapp-line"></i>
                         </a>
 
@@ -80,6 +80,62 @@
                     <!--=============== PROJECTS ===============-->
                     <div class="projects__content grid filters__active" data-content id="projects">
                         <article class="projects__card">
+                            <img src="/assets/img/porto-googleads.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">Ragasport</span>
+                                    <h3 class="projects__title">Google Ads</h3>
+                                    <a href="https://drive.google.com/file/d/1nEFp5T7EEIVYnKyrYDpA_h5LgM8Cglg4/view?usp=sharing" class="projects__button button button__small">
+                                        <i class="ri-drive-fill"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+                        
+                        <article class="projects__card">
+                            <img src="/assets/img/seo-porto.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">SEO</span>
+                                    <h3 class="projects__title">Search Engine Optimization</h3>
+                                    <a href="https://drive.google.com/file/d/17MpAbl-tsK20aeF24SOvoPfojz3Lja4m/view?usp=sharing" class="projects__button button button__small">
+                                        <i class="ri-drive-fill"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="projects__card">
+                            <img src="/assets/img/porto-ads-strategy.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">JKB</span>
+                                    <h3 class="projects__title">Ads Strategy</h3>
+                                    <a href="https://drive.google.com/file/d/1JkMMmaL3v405-OBEJ7QV4-7USkCDvvgU/view?usp=sharing" class="projects__button button button__small">
+                                        <i class="ri-drive-fill"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="projects__card">
+                            <img src="/assets/img/porto-seo-audit.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">GeekGarden</span>
+                                    <h3 class="projects__title">SEO Audit</h3>
+                                    <a href="https://drive.google.com/file/d/1nEFp5T7EEIVYnKyrYDpA_h5LgM8Cglg4/view?usp=sharing" class="projects__button button button__small">
+                                        <i class="ri-drive-fill"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+                        
+                        <article class="projects__card">
                             <img src="/assets/img/project-seo.jpg" alt="" class="projects__img">
                             
                             <div class="projects__modal">
@@ -95,6 +151,7 @@
                                 </div>
                             </div>
                         </article>
+
                         <article class="projects__card">
                             <img src="/assets/img/project-vue.jpg" alt="" class="projects__img">
                             
@@ -111,6 +168,7 @@
                                 </div>
                             </div>
                         </article>
+
                         <article class="projects__card">
                             <img src="/assets/img/project-html.jpg" alt="" class="projects__img">
                             
@@ -127,6 +185,7 @@
                                 </div>
                             </div>
                         </article>
+
                         <article class="projects__card">
                             <img src="/assets/img/project-blog.jpg" alt="" class="projects__img">
                             
@@ -143,6 +202,7 @@
                                 </div>
                             </div>
                         </article>
+
                         <article class="projects__card">
                             <img src="/assets/img/project-bootstrap.jpg" alt="" class="projects__img">
                             
@@ -159,6 +219,7 @@
                                 </div>
                             </div>
                         </article>
+
                         <article class="projects__card">
                             <img src="/assets/img/project-port.jpg" alt="" class="projects__img">
                             
@@ -190,17 +251,8 @@
                                         <i class="ri-checkbox-circle-line"></i>
 
                                         <div>
-                                            <h3 class="skills__name">Search Engine Optimization</h3>
-                                            <span class="skills__level">Intermediate</span>
-                                        </div>
-                                    </div>
-
-                                    <div class="skills__data">
-                                        <i class="ri-checkbox-circle-line"></i>
-
-                                        <div>
                                             <h3 class="skills__name">Google Ads</h3>
-                                            <span class="skills__level">Intermediate</span>
+                                            <span class="skills__level">Advanced</span>
                                         </div>
                                     </div>
                                     
@@ -209,6 +261,15 @@
 
                                         <div>
                                             <h3 class="skills__name">Google Analytics</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Search Engine Optimization</h3>
                                             <span class="skills__level">Intermediate</span>
                                         </div>
                                     </div>
@@ -252,6 +313,15 @@
 
                             <div class="skills__box">
                                 <div class="skills__group">
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">WordPress</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
+
                                     <div class="skills__data">
                                         <i class="ri-checkbox-circle-line"></i>
 

@@ -9,7 +9,7 @@ import MainApp from '@/components/MainApp.vue'
 export default {
   name: 'HomeView',
   mounted() {
-    document.title = "Hai, I'm Zidna.";
+    document.title = "Hey, I'm Zidna.";
 
     /*=============== FILTERS TABS ===============*/
     const tabs = document.querySelectorAll('[data-target]'),
