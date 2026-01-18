@@ -255,6 +255,15 @@
                                             <span class="skills__level">Advanced</span>
                                         </div>
                                     </div>
+
+                                    <div class="skills__data">
+                                        <i class="ri-checkbox-circle-line"></i>
+
+                                        <div>
+                                            <h3 class="skills__name">Meta Ads</h3>
+                                            <span class="skills__level">Intermediate</span>
+                                        </div>
+                                    </div>
                                     
                                     <div class="skills__data">
                                         <i class="ri-checkbox-circle-line"></i>
@@ -275,7 +284,7 @@
                                     </div>
                                 </div>
 
-                                <div class="skills__group">
+                                <div class="skills__group">                                    
                                     <div class="skills__data">
                                         <i class="ri-checkbox-circle-line"></i>
 
