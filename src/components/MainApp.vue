@@ -128,7 +128,7 @@
                                 <div>
                                     <span class="projects__subtitle">GeekGarden</span>
                                     <h3 class="projects__title">SEO Audit</h3>
-                                    <a href="https://drive.google.com/file/d/1nEFp5T7EEIVYnKyrYDpA_h5LgM8Cglg4/view?usp=sharing" class="projects__button button button__small">
+                                    <a href="https://drive.google.com/file/d/1GSG7yBdNU5HD6oBNZVh7wUNi_6XQBIjc/view?usp=sharing" class="projects__button button button__small">
                                         <i class="ri-drive-fill"></i>
                                     </a>
                                 </div>
