@@ -44,7 +44,7 @@
                 </div>
 
                 <div class="profile__buttons">
-                    <a download="" href="https://drive.google.com/file/d/1hxkrj3pUkR11CBfLtHHQbeGHnK1eQx1M/view?usp=sharing" class="button button__small">
+                    <a download="" href="https://drive.google.com/file/d/1xd_qJljOZWK8zhY3AJL7xvTg3lGc2LWl/view?usp=sharing" class="button button__small">
                         Download CV <i class="ri-download-line"></i>
                     </a>
 
@@ -147,6 +147,62 @@
                                     </a>
                                     <a href="https://ragasport.id/rincian-biaya-pembuatan-lapangan-basket-rab-lapangan-basket/" class="projects__button button button__small">
                                         <i class="ri-github-fill"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="projects__card">
+                            <img src="/assets/img/porto-ahli.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">ahlisaranaolahraga.com</span>
+                                    <h3 class="projects__title">WordPress</h3>
+                                    <a href="https://ahlisaranaolahraga.com" class="projects__button button button__small">
+                                        <i class="ri-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="projects__card">
+                            <img src="/assets/img/porto-jasalapangan.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">jasalapangan.com</span>
+                                    <h3 class="projects__title">WordPress & SEO</h3>
+                                    <a href="https://jasalapangan.com" class="projects__button button button__small">
+                                        <i class="ri-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="projects__card">
+                            <img src="/assets/img/porto-amflooring.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">amkaryamandiri.com</span>
+                                    <h3 class="projects__title">WordPress & Google Ads</h3>
+                                    <a href="https://amkaryamandiri.com" class="projects__button button button__small">
+                                        <i class="ri-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="projects__card">
+                            <img src="/assets/img/porto-77sport.jpg" alt="" class="projects__img">
+                            
+                            <div class="projects__modal">
+                                <div>
+                                    <span class="projects__subtitle">77sportconstruction.com</span>
+                                    <h3 class="projects__title">WordPress, SEO & Google Ads</h3>
+                                    <a href="https://77sportconstruction.com" class="projects__button button button__small">
+                                        <i class="ri-link"></i>
                                     </a>
                                 </div>
                             </div>
