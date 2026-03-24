@@ -34,7 +34,7 @@
                         <p class="profile__info-description">Years <br> old</p>
                     </div>
                     <div class="profile__info-group">
-                        <h3 class="profile__info-number">+23</h3>
+                        <h3 class="profile__info-number">+42</h3>
                         <p class="profile__info-description">Completed <br> projects</p>
                     </div>
                     <div class="profile__info-group">
@@ -44,8 +44,8 @@
                 </div>
 
                 <div class="profile__buttons">
-                    <a download="" href="https://drive.google.com/file/d/1xd_qJljOZWK8zhY3AJL7xvTg3lGc2LWl/view?usp=sharing" class="button button__small">
-                        Download CV <i class="ri-download-line"></i>
+                    <a download="" href="https://drive.google.com/file/d/1VFWTZwxhx41U3R5w3NsHNOi6FePzDFhO/view?usp=sharing" class="button button__small">
+                        Download my CV <i class="ri-download-line"></i>
                     </a>
 
                     <div class="profile__buttons-small">
